@@ -1,0 +1,13 @@
+{
+  "name": "genpark-rank-order-temporal-spike-encoder-skill",
+  "version": "1.0.0",
+  "description": "Rank Order Temporal Spike Encoder converting continuous multi-dimensional sensory features into exact millisecond spike arrival sequences.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "spike-encoding",
+    "rank-order-coding",
+    "temporal-coding",
+    "event-driven-ai"
+  ]
+}
